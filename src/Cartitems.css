@@ -1,0 +1,23 @@
+.cartItems{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cart_img > img{
+    height: 180px;
+    object-fit: contain;
+    width: 180px;
+    margin-bottom: 15px;
+}
+.item_info{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    
+}
+.cartItems > button{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}

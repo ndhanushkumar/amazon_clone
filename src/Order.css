@@ -1,0 +1,27 @@
+.order{
+    background-color: white;
+    position: relative;
+    margin: 15px 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.order_id{
+    position: absolute;
+    top:20px;
+    right:40px ;
+}
+.orders{
+    padding: 20px 80px;
+    margin-bottom: 20px;
+}
+.orders > h1 {
+    text-align: center;
+    padding: 20px;
+}
+.order_price{
+    font-weight: 500;
+    text-align: right;
+}
+.orderslist{
+    margin-top: 20px;
+}
